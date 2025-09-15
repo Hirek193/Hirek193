@@ -1,5 +1,5 @@
 
-## _Joł_ 👋
+## _Hejka_ 👋
 > My name is **Oskar**. I'm a polish software & hardware developer with a strong passion for transportation and music.
 
 
